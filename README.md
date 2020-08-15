@@ -7,4 +7,6 @@ The calculator make use of two scripts:
 
 **server.R** performing the calculations
 
+The calculator was originally written in March 2019 as part of the practical work required to complete the Developing Data Products section of the Johns Hopkins Coursera Data Specialisation course.
+
 Access the calculator in the free [Shiny platform](https://techstrat.shinyapps.io/AnnuityCalc/)
